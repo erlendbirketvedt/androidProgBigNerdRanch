@@ -1,0 +1,8 @@
+Step 1: Laying out the UI through app/res/layout/-appname-.xml
+Relative layout -> defines widgets (in this case, another Relative layout and a textview) <- View hierarchy
+The root element must specify the Android resource XML namespace (in this case http://schemas.android.com/apk/res/android) LinearLayout inherits from a subclass of view named viewgroup. A viewgroup is a widget that contains and arranges other widgets. 
+
+Step 2: Create string resources through res/values/strings.xml
+Step 3: Add ID's to Buttons eg: android:id="@+id/true_button" (+ is used because the ID is CREATED) 
+Step 4: Add buttons to the java file eg: private Button mTrueButton; 
+Step 5: Getting references to widgets eg: mTrueButton = (Button) findViewById(R.id.true_button); 
