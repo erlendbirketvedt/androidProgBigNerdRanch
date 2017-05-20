@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/erlend/androidprogbignerdranch/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/erlend/androidprogbignerdranch/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3672014be63a0dc229ed394bb8a7692f1d7a8b65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/erlend/androidprogbignerdranch/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc7c41682c795caba49fcc884fa011624039bcda">
+        <dex dex="/home/erlend/androidprogbignerdranch/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a99878f1eb74dbaae0bac22cefb49362c770a3b7/classes.dex" />
+    </item>
+
+</items>
